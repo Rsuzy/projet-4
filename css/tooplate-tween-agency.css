@@ -40,7 +40,7 @@ https://www.tooplate.com/view/2128-tween-agency
 }
 
 body {
-    background: var(--white-color);
+    background: var(--white-whitesmoke);
     font-family: var(--body-font-family); 
 }
 
@@ -56,7 +56,11 @@ h6 {
   color: var(--dark-color);
 }
 
-h1,
+h1{
+  font-weight: var(--font-weight-bold);
+  line-height: normal;
+  color: burlywood;
+}
 h2,
 h3,
 h4,
