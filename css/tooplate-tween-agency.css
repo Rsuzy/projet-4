@@ -55,7 +55,9 @@ h5,
 h6 {
   color: var(--dark-color);
 }
-
+.blabla {
+  margin-top: 10%;
+}
 h1{
   font-weight: var(--font-weight-bold);
   line-height: normal;
